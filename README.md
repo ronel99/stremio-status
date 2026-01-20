@@ -6,7 +6,7 @@ Access status page at https://status.stremio-status.com, Grafana analytics are a
 Leave a ⭐ if you find the project useful!:)
 
 ## Self-host with Docker
-```
+```bash
 git pull https://github.com/SolitudePy/stremio-status.git
 cd stremio-status
 cp .env.example .env 
